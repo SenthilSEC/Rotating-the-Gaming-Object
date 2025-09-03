@@ -61,3 +61,4 @@ public class Exp : MonoBehaviour
 <img width="1897" height="1130" alt="Screenshot 2025-08-29 213555" src="https://github.com/user-attachments/assets/e4216103-6bcc-423e-b13c-2c4cc28df66d" />
 
 ## Result:
+Thus the output for the rotating the object successfully displayed.
